@@ -5,7 +5,7 @@ class Additem extends React.Component {
       super(props);
       this.state = {
         productName:" ",
-        productPrice:" ",
+        productPrice:0,
       };
     }
     render() { 
